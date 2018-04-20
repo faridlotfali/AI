@@ -1,17 +1,17 @@
 
 # Artificial Intelligence Project
 ```
-solving 8puzzle 3 algorithm
+solving 8puzzle with 3 algorithm
 ```
 ### Include
 
 ```
-A*
+A* algorithm
 ```
 ```
-Greedy
+Greedy algorithm
 ```
 ```
-BFS
+BFS algorithm
 ```
 
